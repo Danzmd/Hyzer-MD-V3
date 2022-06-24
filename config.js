@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
+global.owner = ['6289523573658'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
+global.nameowner = 'Danzzbotz'
+global.numberowner = '6289523573658'
 global.instagram = 'https://instagram.com/sahrulwara_____'
 global.github = 'https://github.com/sahrull11'
-global.dana = '085822347348'
-global.pulsa = '085822347348,083843192208'
-global.gopay = ''
+global.dana = '089523573658'
+global.pulsa = '089523573658,089523573658'
+global.gopay = '089523573658'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'Danzbot'
 global.gc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
 global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❚█══ArullBotz‖MD‖'
+global.wm = '❚█══DanzBotz‖MD‖'
 global.watermark = wm
 global.wm2 = '                     「 ArullBotzMD あ⁩ 」'
-global.wm3 = '⫹⫺ ❚█══ArullBotz‖MD‖'
+global.wm3 = '⫹⫺ ❚█══DanzBotz‖MD‖'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat*'
-global.packname = 'Sticker By'
-global.author = '© ArullOfc'
+global.packname = 'Danzz bot'
+global.author = '© DanzzOfc'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
